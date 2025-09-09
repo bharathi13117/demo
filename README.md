@@ -17,3 +17,6 @@ my mother is home maker
 my sister is studing 9th class in TAGORE matric.hr.sec.school
 my mom cook many food for us
 my sister studing well in school
+#roll model
+my roll modle is sunderpichai
+my favorite person is my father
